@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://spinogambino-jeux.fr/app/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonuses/</loc>
+    <loc>https://spinogambino-jeux.fr/bonuses/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politique-en-matiere-de-cookies/</loc>
+    <loc>https://spinogambino-jeux.fr/politique-en-matiere-de-cookies/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/login/</loc>
+    <loc>https://spinogambino-jeux.fr/login/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/conditions-generales/</loc>
+    <loc>https://spinogambino-jeux.fr/conditions-generales/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politique-de-confidentialite/</loc>
+    <loc>https://spinogambino-jeux.fr/politique-de-confidentialite/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://spinogambino-jeux.fr/contacts/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a-propos-de-nous/</loc>
+    <loc>https://spinogambino-jeux.fr/a-propos-de-nous/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jeu-responsable/</loc>
+    <loc>https://spinogambino-jeux.fr/jeu-responsable/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://spinogambino-jeux.fr/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://spinogambino-jeux.fr/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://spinogambino-jeux.fr/tags/</loc>
   </url>
 </urlset>
